@@ -12,10 +12,11 @@ This project is a real-time stock broker client web dashboard that allows users 
 
 ### Screenshorts
 
-![stockbroker Dashboard](./screenshort/sb1.png)
-![stockbroker Dashboard](./screenshort/sb2.png)
 ![stockbroker Dashboard](./screenshort/sb3.png)
 ![stockbroker Dashboard](./screenshort/sb4.png)
+![stockbroker Dashboard](./screenshort/sb5.png)
+![stockbroker Dashboard](./screenshort/sb1.png)
+![stockbroker Dashboard](./screenshort/sb2.png)
 
 ## Technologies Used
 
