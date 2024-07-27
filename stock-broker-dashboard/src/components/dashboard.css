@@ -1,0 +1,53 @@
+.heading {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #8236fd;
+  text-align: center;
+  margin: 0;
+}
+
+.dashboard {
+  font-family: "Lato";
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.dashboard h3 {
+  color: #0e0741;
+  text-align: center;
+}
+.dashboard .avail-stocks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.dashboard .stock-btns {
+  padding: 1rem;
+}
+.dashboard .stock-btn {
+  font-weight: bold;
+  width: 300px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgba(255, 255, 255, 0.265);
+  border-radius: 5px;
+
+  padding: 0.2rem 0.2rem;
+  margin-top: 0.21rem;
+}
+.dashboard .stock-btn button {
+  margin-left: 5rem;
+}
+.dashboard .subscribed-stocks {
+}
+.dashboard .subscribed-stock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1rem;
+}

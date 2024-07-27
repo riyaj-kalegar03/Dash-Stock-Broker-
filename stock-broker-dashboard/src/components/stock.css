@@ -1,0 +1,19 @@
+.sub-stocks {
+  margin-top: 0.2rem;
+  padding: 0.4rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.226);
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.sub-stocks span {
+  color: green;
+  margin-left: 4rem;
+}
+
+.sub-stocks .negative-price {
+  color: red;
+}

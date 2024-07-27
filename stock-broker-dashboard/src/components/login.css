@@ -1,0 +1,25 @@
+.login {
+  padding: 2rem;
+}
+
+.login input {
+  border: none;
+  width: 15rem;
+  height: 2rem;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.395);
+  border-radius: 4px;
+}
+
+.login h1 {
+  margin-top: 0;
+  text-align: center;
+  color: #8236fd;
+  text-shadow: 2px 2px rgba(0, 0, 0, 0.078);
+}
+.login button {
+  margin-top: 1rem;
+  color: white;
+  width: 100%;
+  background-color: #8236fd;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.416);
+}
