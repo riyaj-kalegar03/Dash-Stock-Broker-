@@ -36,7 +36,7 @@ Follow these steps to set up and run the project locally.
 1. Clone the repository and navigate to the backend directory:
    ```sh
    git clone https://github.com/riyaj-kalegar03/Assignment-2.git
-   cd stock-broker-dashboard
+   cd Assignment-2
    cd stock-broker-server
    ```
 2. Install the backend dependencies:
