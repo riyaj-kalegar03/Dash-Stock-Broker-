@@ -36,6 +36,7 @@ Follow these steps to set up and run the project locally.
    ```sh
    git clone https://github.com/riyaj-kalegar03/stock-broker-dashboard.git
    cd stock-broker-dashboard
+   cd stock-broker-server
    ```
 2. Install the backend dependencies:
 
