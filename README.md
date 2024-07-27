@@ -52,7 +52,7 @@ Follow these steps to set up and run the project locally.
 
 1. Navigate to the frontend directory:
 
-   cd stock-broker-dashboard
+   cd stock-broker-dashboard  (/Assignment-2/stock-broker-dashboard)
 
 2. Install the frontend dependencies:
 
