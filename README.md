@@ -10,6 +10,13 @@ This project is a real-time stock broker client web dashboard that allows users 
 - Support for multiple users who can subscribe to different stocks.
 - Simultaneous updates for all users subscribed to the same stock.
 
+### Screenshorts
+
+![stockbroker Dashboard](./screenshort/sb1.png)
+![stockbroker Dashboard](./screenshort/sb2.png)
+![stockbroker Dashboard](./screenshort/sb3.png)
+![stockbroker Dashboard](./screenshort/sb4.png)
+
 ## Technologies Used
 
 - **Frontend**: React, Vite, Socket.io-client
