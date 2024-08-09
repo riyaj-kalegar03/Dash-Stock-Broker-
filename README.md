@@ -2,7 +2,7 @@
 
 This project is a real-time stock broker client web dashboard that allows users to subscribe to stock tickers and receive live price updates. The application demonstrates the use of WebSockets for real-time communication between the backend server and the frontend client.
 
-## Features
+### Features
 
 - User login using email.
 - Subscribe to supported stocks (e.g., GOOG, TSLA, AMZN, META, NVDA).
