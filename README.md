@@ -19,7 +19,7 @@ This project is a real-time stock broker client web dashboard that allows users 
 ![stockbroker Dashboard](./screenshort/sb1.png)
 ![stockbroker Dashboard](./screenshort/sb2.png)
 
-## Technologies Used
+### Technologies Used
 
 - **Frontend**: React, Vite, Socket.io-client
 - **Backend**: Node.js, Express, Socket.io
