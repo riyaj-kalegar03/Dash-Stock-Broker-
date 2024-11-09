@@ -1,4 +1,4 @@
-# Stock Broker Client Web Dashboard
+## Stock Broker Client Web Dashboard
 
 This project is a real-time stock broker client web dashboard that allows users to subscribe to stock tickers and receive live price updates. The application demonstrates the use of WebSockets for real-time communication between the backend server and the frontend client.
 
